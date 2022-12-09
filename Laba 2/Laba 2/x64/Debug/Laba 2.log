@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\Lab\Laba 2\Laba 2\Source.cpp(18,37): warning C4129: '': unrecognized character escape sequence
+C:\Users\User\Desktop\Lab\Laba 2\Laba 2\Source.cpp(18,70): warning C4129: '': unrecognized character escape sequence
+C:\Users\User\Desktop\Lab\Laba 2\Laba 2\Source.cpp(9,47): warning C4101: 'Var7': unreferenced local variable
+  Laba 2.vcxproj -> C:\Users\User\Desktop\Lab\Laba 2\x64\Debug\Laba 2.exe
