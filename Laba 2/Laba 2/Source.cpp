@@ -8,14 +8,14 @@ int main()
     SetConsoleOutputCP(1251);
     double Var, Var2, Var3, Var4, Var5, Var6, Var7;
 
-    cout << "Ââåä³òü 3 ÷èñëà: ";
+    cout << "Ã‚Ã¢Ã¥Ã¤Â³Ã²Ã¼ 3 Ã·Ã¨Ã±Ã«Ã : ";
     cin >> Var >> Var2 >> Var3;
     Var4 = Var + Var2 + Var3;
     Var5 = Var * Var2 * Var3;
     Var6 = (Var + Var2 + Var3) / 3;
 
 
-    cout << "Ñóìà: " << Var4 << "\n\Äîáóòîê: " << Var5 << "\n\Ñåğåäíº àğèôìåòè÷íå: " << Var6;
+    cout << "Ã‘Ã³Ã¬Ã : " << Var4 << "\n\Ã„Ã®Ã¡Ã³Ã²Ã®Ãª: " << Var5 << "\n\Ğ¡ĞµÑ€ĞµĞ´Ğ½Ñ” Ğ°Ñ€Ğ¸Ñ„Ğ¼ĞµÑ‚Ğ¸Ñ‡Ğ½Ğµ: " << Var6;
 
     return _getch();
 }
